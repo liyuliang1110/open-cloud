@@ -44,8 +44,6 @@
 
 #### 功能介绍
 ![功能介绍](/docs/功能介绍.png)  
-####系统结构图：
-https://gitee.com/luzhiwei9527/open-cloud#%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%9B%BE
 #### 代码结构
 ``` lua
 open-cloud
